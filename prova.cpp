@@ -27,6 +27,6 @@ int f(int v[], int n)
 int main()
 {
     int a[]={120,5,6,9,14};
-    cout << f(a,5);
+    cout << f(a,5) << endl;
     return 0;
 }
